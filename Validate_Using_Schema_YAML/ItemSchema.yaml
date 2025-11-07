@@ -1,0 +1,26 @@
+---
+"$schema": http://json-schema.org/draft-04/schema#
+title: Item
+type: object
+properties:
+  name:
+    title: name
+    type: string
+  department:
+    title: department
+    type: string
+  price:
+    title: price
+    type: number
+  quantity:
+    title: quantity
+    type: integer
+  description:
+    title: description
+    type: string
+required:
+- name
+- department
+- price
+- quantity
+- description
