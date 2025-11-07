@@ -1,1 +1,8 @@
-First file creation data
+Learning outcomes
+o	Use IBM App Connect Enterprise to validate JSON message data in a flow using a JSON schema in YAML format.
+
+
+Details
+This tutorial demonstrates a simple message flow that receives a JSON input message over HTTP, and checks the data against a JSON Schema 
+
+
